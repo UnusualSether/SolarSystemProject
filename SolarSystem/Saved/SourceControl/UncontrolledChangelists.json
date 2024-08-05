@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/ra00330914/Documents/Unreal Projects/SolarSystem/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/ra00330914/Documents/Unreal Projects/SolarSystem/Content/SolarSystem.umap",
+				"C:/Users/ra00330914/Documents/Unreal Projects/SolarSystem/Content/Materials/2k_sun_Mat.uasset",
+				"C:/Users/ra00330914/Documents/Unreal Projects/SolarSystem/Content/Materials/2k_venus_surface_Mat.uasset",
+				"C:/Users/ra00330914/Documents/Unreal Projects/SolarSystem/Content/Materials/2k_earth_daymap_Mat.uasset",
+				"C:/Users/ra00330914/Documents/Unreal Projects/SolarSystem/Content/Textures/2k_earth_daymap_Mat.uasset",
+				"C:/Users/ra00330914/Documents/Unreal Projects/SolarSystem/Content/Materials/2k_mars_Mat.uasset",
+				"C:/Users/ra00330914/Documents/Unreal Projects/SolarSystem/Content/Textures/2k_mars_Mat.uasset",
+				"C:/Users/ra00330914/Documents/Unreal Projects/SolarSystem/Content/Materials/2k_mercury_Mat.uasset",
+				"C:/Users/ra00330914/Documents/Unreal Projects/SolarSystem/Content/Textures/2k_mercury_Mat.uasset",
+				"C:/Users/ra00330914/Documents/Unreal Projects/SolarSystem/Content/Materials/2k_uranus.uasset",
+				"C:/Users/ra00330914/Documents/Unreal Projects/SolarSystem/Content/Textures/2k_uranus.uasset",
+				"C:/Users/ra00330914/Documents/Unreal Projects/SolarSystem/Content/Materials/2k_uranus_Mat.uasset",
+				"C:/Users/ra00330914/Documents/Unreal Projects/SolarSystem/Content/Materials/Universe.uasset",
+				"C:/Users/ra00330914/Documents/Unreal Projects/SolarSystem/Content/Textures/2k_neptune_Mat.uasset",
+				"C:/Users/ra00330914/Documents/Unreal Projects/SolarSystem/Content/Textures/2k_stars_milky_way.uasset",
+				"C:/Users/ra00330914/Documents/Unreal Projects/SolarSystem/Content/Materials/2k_jupiter_Mat.uasset",
+				"C:/Users/ra00330914/Documents/Unreal Projects/SolarSystem/Content/Materials/2k_neptune_Mat.uasset",
+				"C:/Users/ra00330914/Documents/Unreal Projects/SolarSystem/Content/Materials/2k_saturn_Mat.uasset",
+				"C:/Users/ra00330914/Documents/Unreal Projects/SolarSystem/Content/Textures/2k_uranus_Mat.uasset",
+				"C:/Users/ra00330914/Documents/Unreal Projects/SolarSystem/Content/StaticMeshe4s/EarthPreset.uasset",
+				"C:/Users/ra00330914/Documents/Unreal Projects/SolarSystem/Content/Presets/EarthPreset.uasset",
+				"C:/Users/ra00330914/Documents/Unreal Projects/SolarSystem/Content/Presets/Earth_Blueprint.uasset",
+				"C:/Users/ra00330914/Documents/Unreal Projects/SolarSystem/Content/EarthBlueprint.uasset",
+				"C:/Users/ra00330914/Documents/Unreal Projects/SolarSystem/Content/Textures/SpinConstant.uasset"
+			]
+		}
+	]
+}
